@@ -1,1 +1,1 @@
-<img src="/reza_banner.jpg" width="5000" height="270" />
+<img src="/reza_banner.jpg" width="5000" height="240" />
